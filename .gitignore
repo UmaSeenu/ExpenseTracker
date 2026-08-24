@@ -8,3 +8,4 @@ frontend/vite.config.d.ts
 backend/bin/
 backend/obj/
 .DS_Store
+.vercel

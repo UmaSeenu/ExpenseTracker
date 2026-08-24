@@ -107,9 +107,14 @@ https://github.com/UmaSeenu/ExpenseTracker
 
 ## Live Application URL
 
-Not deployed yet. Use the local frontend URL during development:
+The public frontend is deployed on Vercel:
+
+https://expense-tracker-nine-eta-38.vercel.app
+
+Use the local frontend URL during development:
 
 http://127.0.0.1:5174/
 
 Deployment is planned through Vercel for the React frontend and Azure App Service
-for the .NET API.
+for the .NET API. The current public deployment contains the frontend dashboard;
+the .NET API remains available locally until its separate hosting is configured.
